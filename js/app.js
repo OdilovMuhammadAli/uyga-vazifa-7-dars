@@ -126,7 +126,7 @@
 //  Foydalanish: replaceAll(" ", "")
 // function removeSpaces(str) {
 //     Joy yo‘q, harf ko‘p! 🔡
-//   return str.replaceAll(" ", "");
+//   return str.replaceAll("Zubayr", "Botirjon");
 // }
 // console.log(removeSpaces("Zubayr Yomon bola, lekin chidasa boladi"));
 
