@@ -125,8 +125,8 @@
 //  String ichidagi barcha bo‘sh joylarni olib tashlang.
 //  Foydalanish: replaceAll(" ", "")
 // function removeSpaces(str) {
-//     Joy yo‘q, harf ko‘p! 🔡
-//   return str.replaceAll("Zubayr", "Botirjon");
+//     // Joy yo‘q, harf ko‘p! 🔡
+//   return str.replaceAll(" ", "");
 // }
 // console.log(removeSpaces("Zubayr Yomon bola, lekin chidasa boladi"));
 
@@ -139,7 +139,7 @@
 // }
 // console.log(reverseArray([1,2,3,4,5,6,7]));
 
-// // 14-masala
+// // 14-masala 
 // // Object.entries orqali objectni key-value arrayga aylantiring.
 // // Foydalanish: Object.entries()
 // function objectToEntries(obj) {
