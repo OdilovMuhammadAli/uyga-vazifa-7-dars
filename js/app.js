@@ -188,7 +188,7 @@
 //   // Oxirgisi qayerda? Bananalardan shubhalanamiz 🍌
 //   return arr.lastIndexOf("banana");
 // };
-// console.log(lastBananaIndex(["apple", "banana", "orange", ,"banana"]));
+// console.log(lastBananaIndex(["apple", "manga", "orange", ,"banana"]));
 
 
 
