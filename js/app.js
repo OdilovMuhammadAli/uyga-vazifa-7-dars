@@ -177,9 +177,9 @@
 // // Masalan: "salom dunyo" => "salom, dunyo"
 // function addComma(str) {
 //   // Gaplar orasiga chiroyli nuqta-vergullar qo‘shamiz ✒️
-// return str.replace("salom dunyo","salom,dunyo")
+// return str.replace(" ",",")
 // }
-// console.log(addComma("salom,dunyo"));
+// console.log(addComma("salom dunyo"));
 
 // // 19-masala
 // // Massivda oxirgi bolib qayerda "banana" turganini toping.
