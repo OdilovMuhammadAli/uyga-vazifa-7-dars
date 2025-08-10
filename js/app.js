@@ -172,13 +172,14 @@
 // }
 // console.log(lastThree("Sasiq"));
 
-// // 18-masala
-// // Stringni ichidagi har bir bo‘shliqdan keyin vergul qo‘shing.
+// // // 18-masala
+// // // Stringni ichidagi har bir bo‘shliqdan keyin vergul qo‘shing.
 // // Masalan: "salom dunyo" => "salom, dunyo"
 // function addComma(str) {
 //   // Gaplar orasiga chiroyli nuqta-vergullar qo‘shamiz ✒️
-// 18-qila olmadim
+// return str.replace("salom dunyo","salom,dunyo")
 // }
+// console.log(addComma("salom,dunyo"));
 
 // // 19-masala
 // // Massivda oxirgi bolib qayerda "banana" turganini toping.
