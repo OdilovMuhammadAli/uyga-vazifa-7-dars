@@ -97,7 +97,7 @@
 //   // Meva ichidan olmani toping 🍎
 //   return arr.includes("apple");
 // }
-// console.log(containsApple("apple","ananas","olcha"));
+// console.log(containsApple("apple","ananas","olcha  "));
 
 
 // 10-masala
@@ -208,5 +208,5 @@
 //   // Uzun so‘zlardan qutulamiz, qisqacha ayting 🧠
 //   return str.replaceAll("javascript", "JS");
 // };
-// console.log(shortenJS("Man javascriptni organayapman, javascript juda zor til!"));
+// console.log(shortenJS("Man javascriptni organayapman, javascript juda zor til"));
 
